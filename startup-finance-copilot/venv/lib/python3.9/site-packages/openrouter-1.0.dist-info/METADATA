@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: openrouter
+Version: 1.0
+Summary: Unofficial OpenRouter Chatbot AI Library
+Author: vboxvm512
+Author-email: vboxvm512@gmail.com
+License: MIT
+Platform: any
+Requires-Dist: requests
+Requires-Dist: urllib3
+
+README.md
