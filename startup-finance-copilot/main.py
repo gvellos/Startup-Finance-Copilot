@@ -1,26 +1,20 @@
-from agents.pitch_deck_agent import PitchDeckAgent
+from core.orchestrator import StartupCopilot
 
+startup_data = {
+    "name": "Startup XYZ",
+    "problem": "Αναποτελεσματική συνεργασία σε απομακρυσμένες ομάδες",
+    "solution": "Πλατφόρμα με AI για βελτίωση επικοινωνίας",
+    "market": "Αγορά remote εργασίας",
+    "business_model": "SaaS",
+    "goal": "500000",
+    "industry": "SaaS για remote teams"
+}
 
-def main():
-    # Example startup information
-    startup_info = {
-        "name": "Startup XYZ",
-        "problem": "Lack of efficient communication in remote teams.",
-        "solution": "An AI-powered tool for improving communication and collaboration.",
-        "market": "Remote working teams, startups, and enterprises.",
-        "business_model": "Subscription-based SaaS model.",
-        "goal": "Raise $500,000 in seed funding to develop the platform."
-    }
+copilot = StartupCopilot()
+results = copilot.run(startup_data)
 
-    # Initialize the PitchDeckAgent
-    agent = PitchDeckAgent()
+print("\n🧾 Pitch Deck:\n")
+print(results["pitch_deck"])
 
-    # Generate the pitch deck
-    pitch_deck = agent.generate_pitch_deck(startup_info)
-
-    # Output the generated pitch deck
-    print("Generated Pitch Deck:")
-    print(pitch_deck)
-
-if __name__ == "__main__":
-    main()
+print("\n📊 Financial Projections:\n")
+print(results["financials"])

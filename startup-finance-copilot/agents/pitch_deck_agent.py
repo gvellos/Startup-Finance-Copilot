@@ -1,7 +1,7 @@
 from openai import OpenAI
 import os
-# Correct Code
-from dotenv import load_dotenv# Load environment variables
+from dotenv import load_dotenv
+
 load_dotenv()
 
 # Get the OpenRouter API key
