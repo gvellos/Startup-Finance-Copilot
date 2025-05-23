@@ -18,3 +18,6 @@ print(results["pitch_deck"])
 
 print("\n📊 Financial Projections:\n")
 print(results["financials"])
+
+print("\n⚠️ Risk Analysis & Plan B:\n")
+print(results["risk_analysis"])
