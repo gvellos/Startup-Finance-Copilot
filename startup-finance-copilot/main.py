@@ -18,3 +18,9 @@ print(results["pitch_deck"])
 
 print("\n📊 Financial Projections:\n")
 print(results["financials"])
+
+
+print("\n💰 Valuation Report:\n")
+print(results["valuation"]["summary"])
+print(f"\n📉 DCF Value: ${results['valuation']['dcf_valuation']}")
+print(f"📈 Terminal Value (EBITDA x Multiple): ${results['valuation']['terminal_value']}")
