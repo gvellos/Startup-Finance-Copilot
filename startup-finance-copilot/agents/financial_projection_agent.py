@@ -1,5 +1,3 @@
-# agents/financial_projection_agent.py
-
 import os
 import pandas as pd
 from openai import OpenAI
