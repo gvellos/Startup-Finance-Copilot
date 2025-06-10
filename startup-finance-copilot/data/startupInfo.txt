@@ -1,0 +1,40 @@
+Company Name: FinMate
+
+Mission:
+Empowering startups and small businesses with AI-driven financial planning tools.
+
+Problem:
+Startups often lack the expertise and resources for detailed financial forecasting, leading to poor cash flow management and investment misalignment.
+
+Solution:
+An intelligent financial copilot that generates budgets, forecasts, and investor-ready pitch decks using real-time data and AI agents.
+
+Market Opportunity:
+Over 30 million startups globally with a growing need for automated financial support tools. Estimated TAM: $15B.
+
+Product:
+Web-based platform with financial planning dashboards, KPI tracking, and collaborative reporting. Built-in support for pitch deck creation and investor analytics.
+
+Business Model:
+SaaS subscription model with three tiers: Starter ($29/month), Pro ($79/month), and Enterprise (custom pricing).
+
+Traction:
+- 1,200 beta users within 3 months
+- 92% monthly retention rate
+- Partnerships with 3 incubators
+
+Team:
+- John Doe (CEO) – Ex-McKinsey, MBA from INSEAD
+- Maria Smith (CTO) – AI Researcher, ex-Google Brain
+- Alex Chen (CFO) – 10+ years in startup finance
+
+Competition:
+Bench, Pilot, LivePlan. FinMate stands out with real-time AI agents and auto-generated investor materials.
+
+Financials:
+Projected revenue: $300K ARR by Q4 2025
+Burn rate: $22K/month
+Runway: 12 months
+
+Funding Ask:
+Raising $1M seed round to grow engineering team and expand to EU market.

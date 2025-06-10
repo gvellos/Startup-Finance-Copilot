@@ -4,7 +4,7 @@ __pycache__/
 *.so
 
 # Virtual environment
-venv/
+.venv/
 .env
 
 # VS Code settings
