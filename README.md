@@ -1,22 +1,22 @@
-# Startup Finance Copilot
+# 🚀 Startup Finance Copilot
 
 **Empowering startups with AI-driven financial planning and pitch deck generation**
 
 ---
 
-## Overview
+## 📌 Overview
 
 Startup Finance Copilot is an AI-powered platform designed to help startups and small businesses with financial forecasting, risk analysis, funding search, and automatic pitch deck creation. It leverages multiple AI agents working together, using advanced language models through OpenRouter and Langchain for retrieval-augmented generation (RAG).
 
 ---
 
-## Features
+## ✨ Key Features
 
-- **Financial Projection Agent:** Generates detailed financial forecasts from Excel data.
-- **EU Funding Agent:** Searches for relevant European funding opportunities based on the startup’s project.
-- **Risk Advisor Agent:** Analyzes business risks and suggests mitigation strategies.
-- **Pitch Deck Agent:** Combines information retrieval and AI generation to create investor-ready pitch decks.
-- **RAG Workflow:** Uses Langchain and ChromaDB for semantic search and retrieval of startup documents.
+- **🔢 Financial Projection Agent:** Transforms Excel financial data into detailed revenue forecasts, budget breakdowns, and KPIs.
+- **💰 EU Funding Agent:** Identifies relevant EU or national grant programs based on your startup's mission, industry, and location.
+- **⚠️ Risk Advisor Agent:** Analyzes potential business risks and offers strategic mitigation recommendations.
+- **🧾 Pitch Deck Agent:** Synthesizes startup data into a compelling, investor-ready pitch deck with minimal user input.
+- **🧠 RAG Workflow:** Uses Langchain and ChromaDB for semantic search and retrieval of startup documents.
 
 ---
 
